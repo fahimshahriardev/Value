@@ -1,0 +1,560 @@
+.header{
+	background-color: #3B3735;
+}
+.second-section{
+	background: url(../img/653377_ValuePropositionAssets_06_v4_033120.png)no-repeat;
+	background-size: cover;
+	color: #417986;
+}
+.second-section-text{
+	    margin-top: 305px;
+    margin-bottom: 460px;
+    font-size: 39px;
+}
+.third-section{
+	background-color: #EFF3F4;
+	color:#417986;
+	
+}
+.third-section-text{
+	font-size: 40px;
+    text-align: center; 
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.fourth-section{
+	margin-top: 50px;
+}
+.fourth-section-1st{
+	color: #8F8F8F;
+    font-size: 21px;
+    margin-left: 95px;
+}
+.fourth-section-2nd{
+	color: black;
+    margin-top: 35px;
+    margin-bottom: 40px;
+    font-size: 23px;
+}
+.fourth-section-3rd{
+	font-size: 35px;
+    text-align: center;
+    color: gray;
+    margin-bottom: 40px;
+}
+.sponser{
+	background-color: #EFF3F4;
+	text-align: center;
+}
+.sponser-text{
+	font-size: 20px;
+    margin-top: 30px;
+    color: gray;
+}
+.fifth{
+	background:url(../img/653377_ValuePropositionAssets_18_v4_033120.png)no-repeat;
+	background-size: cover;
+	background-size: 80%;
+	color: white;
+}
+.fifth-right{
+	margin-left: -205px;
+    width: 72%;
+    margin-top: 40px;
+}
+.fifth-left-head{
+	font-size: 35px;
+    margin-left: 105px;
+    margin-top: 165px;
+    margin-bottom: 40px;
+}
+.fifth-left-text1{
+    margin-left: 171px;
+    font-size: 22px;
+}
+.fifth-left-text2{
+   margin-left: 234px;
+    font-size: 22px;
+}
+.fifth-left-text3{
+	    margin-left: 135px;
+    font-size: 22px;
+}
+.fifth-left-text4{
+	    margin-left: 282px;
+    font-size: 22px;
+    margin-bottom: 100px;
+}
+
+.six{
+	background-color: #EFF3F4;
+	color: #518490;
+}
+.six-text{
+	font-size: 22px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+.seven{
+color:  #518490;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.seven-text1{
+	    text-align: center;
+    font-size: 21px;
+    margin-top: 103px;
+
+}
+.seven-text2{
+	    text-align: center;
+    font-size: 21px;
+    margin-top: 60px;
+
+}
+.seven-text3{
+	    text-align: center;
+    font-size: 21px;
+    margin-top: 60px;
+
+}
+.eight{
+	background-color: #EFF3F4;
+	color: #467784;
+}
+.eight-head{
+	    font-size: 27px;
+	    margin-top: 40px;
+}
+.eight-text{
+	font-size: 21px;
+    text-align: justify;
+}
+.nine{
+	margin-top: 45px;
+	margin-bottom: 45px;
+}
+.nine-head{
+	font-size: 26px;
+    text-align: center;
+    color: #467784;
+
+}
+/*.ten{
+	background: url(../img/653377_ValuePropositionAssets_32_v4_033120.png)no-repeat;
+	background-size: 100% 100%;
+}*/
+.ten-div{
+        margin: 0px;
+    padding: 0px;
+}
+/*.ten-img{
+	width: 30%;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-left: 241px;
+}*/
+.footer{
+background-color: #333333;
+height: 88px;
+}
+
+
+
+@media (min-width: 320px) and (max-width:520px){
+    .header-img{
+            width: 35%;
+    }
+    .second-section-text {
+    margin-top: 131px;
+    margin-bottom: 50px;
+    font-size: 34px;
+}
+.third-section-text {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.fourth-section-1st {
+    color: #8F8F8F;
+    font-size: 12px;
+     margin-left: 0px;
+}
+.fourth-section-2nd {
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+.fourth-section-3rd {
+    font-size: 19px;
+    text-align: center;
+    color: gray;
+    margin-bottom: 40px;
+}
+.fifth {
+    background: url(../img/653377_ValuePropositionAssets_18_v4_033120.png)no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    color: white;
+    margin-bottom: -72px;
+}
+.fifth-right {
+    margin-left: 289px;
+    width: 35%;
+    margin-top: -260px;
+}
+.fifth-left-head {
+    font-size: 18px;
+    margin-left: 36px;
+    margin-top: 23px;
+    margin-bottom: 0;
+}
+.fifth-left-text1 {
+    margin-left: 36px;
+    font-size: 14px;
+    margin-top: 14px;
+}
+.fifth-left-text2 {
+    margin-left: 74px;
+    font-size: 14px;
+}
+.fifth-left-text3 {
+    margin-left: 10px;
+    font-size: 14px;
+}
+.fifth-left-text4 {
+    margin-left: 102px;
+    font-size: 14px;
+    margin-bottom: 100px;
+}
+.six-text {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+.seven-text1 {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 0px;
+}
+.seven-text2 {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 26px;
+}
+.seven-text3 {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 23px;
+}
+.eight-head {
+    font-size: 21px;
+    margin-top: 40px;
+}
+.eight-text {
+    font-size: 16px;
+    text-align: justify;
+}
+.nine-head {
+    font-size: 16px;
+    text-align: center;
+    color: #467784;
+}
+.ten-img {
+    width: 27%;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    margin-left: 66px;
+}
+}
+@media (min-width: 521px) and (max-width:768px){
+  .header-img{
+    width: 25%;
+  }  
+  .second-section-text {
+    margin-top: 129px;
+    margin-bottom: 121px;
+    font-size: 30px;
+}
+.third-section-text {
+    font-size: 23px;
+    text-align: center;
+    margin-top: 31px;
+    margin-bottom: 10px;
+}
+.fourth-section-1st {
+    color: #8F8F8F;
+    font-size: 14px;
+    margin-left: -18px;
+}
+.fourth-section-2nd {
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+.fourth-section-3rd {
+    font-size: 22px;
+    text-align: center;
+    color: gray;
+    margin-bottom: 40px;
+}
+.fifth {
+    background: url(../img/653377_ValuePropositionAssets_18_v4_033120.png)no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    color: white;
+    margin-bottom: 0px;
+}
+.fifth-right {
+    margin-left: 427px;
+    width: 35%;
+    margin-top: -260px;
+}
+.fifth-left-head {
+    font-size: 22px;
+    margin-left: 122px;
+    margin-top: 23px;
+    margin-bottom: 0;
+}
+.fifth-left-text1 {
+    margin-left: 132px;
+    font-size: 16px;
+    margin-top: 14px;
+}
+.fifth-left-text2 {
+    margin-left: 174px;
+    font-size: 16px;
+}
+.fifth-left-text3 {
+    margin-left: 98px;
+    font-size: 16px;
+}
+.fifth-left-text4 {
+    margin-left: 203px;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
+.six-text {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+.seven-text1 {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 6px;
+}
+.seven-text2 {
+    text-align: center;
+    font-size: 17px;
+    margin-top: 22px;
+}
+.seven-text3 {
+    text-align: center;
+    font-size: 17px;
+    margin-top: 28px;
+}
+.eight-head {
+    font-size: 24px;
+    margin-top: 40px;
+}
+.eight-text {
+    font-size: 17px;
+    text-align: justify;
+}
+.nine-head {
+    font-size: 22px;
+    text-align: center;
+    color: #467784;
+}
+.ten-img {
+    width: 26%;
+    margin-top: 31px;
+    margin-bottom: 25px;
+    margin-left: 80px;
+}
+}
+
+@media (min-width: 769px) and (max-width:991px){
+    .second-section-text {
+    margin-top: 90px;
+    margin-bottom: 165px;
+    font-size: 25px;
+}
+.third-section-text {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.fourth-section-1st {
+    color: #8F8F8F;
+    font-size: 18px;
+    margin-left: 0px;
+}
+.fourth-section-2nd {
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+.fourth-section-3rd {
+    font-size: 25px;
+    text-align: center;
+    color: gray;
+    margin-bottom: 40px;
+}
+.fifth {
+    background: url(../img/653377_ValuePropositionAssets_18_v4_033120.png)no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    color: white;
+    margin-bottom: -72px;
+}
+.fifth-right {
+    margin-left: 469px;
+    width: 39%;
+    margin-top: -301px;
+}
+.fifth-left-head {
+    font-size: 24px;
+    margin-left: 169px;
+    margin-top: 23px;
+    margin-bottom: 0;
+}
+.fifth-left-text1 {
+    margin-left: 196px;
+    font-size: 16px;
+    margin-top: 14px;
+}
+.fifth-left-text2 {
+    margin-left: 236px;
+    font-size: 16px;
+}
+.fifth-left-text3 {
+    margin-left: 159px;
+    font-size: 16px;
+}
+.fifth-left-text4 {
+    margin-left: 264px;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
+.six-text {
+    font-size: 17px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+.seven-text1 {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.seven-text2 {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.seven-text3 {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.eight-head {
+    font-size: 21px;
+    margin-top: 40px;
+}
+.eight-text {
+    font-size: 18px;
+    text-align: justify;
+}
+.nine-head {
+    font-size: 21px;
+    text-align: center;
+    color: #467784;
+}
+.ten-img {
+    width: 44%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 135px;
+}
+}
+
+@media (min-width: 992px) and (max-width:1200px){
+    .second-section-text {
+    margin-top: 111px;
+    margin-bottom: 301px;
+    font-size: 30px;
+}
+.third-section-text {
+    font-size: 33px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.fourth-section-2nd {
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 40px;
+    font-size: 19px;
+}
+.fourth-section-3rd {
+    font-size: 30px;
+    text-align: center;
+    color: gray;
+    margin-bottom: 40px;
+}
+.fifth {
+    background: url(../img/653377_ValuePropositionAssets_18_v4_033120.png)no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    color: white;
+    margin-bottom: 0px;
+}
+.fifth-right {
+    margin-left: 600px;
+    width: 28%;
+    margin-top: -296px;
+}
+.fifth-left-head {
+    font-size: 26px;
+    margin-left: 257px;
+    margin-top: 23px;
+    margin-bottom: 0;
+}
+.fifth-left-text1 {
+    margin-left: 308px;
+    font-size: 16px;
+    margin-top: 14px;
+}
+.fifth-left-text2 {
+    margin-left: 351px;
+    font-size: 16px;
+}
+.fifth-left-text3 {
+    margin-left: 274px;
+    font-size: 16px;
+}
+.fifth-left-text4 {
+    margin-left: 264px;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
+.fifth-left-text4 {
+    margin-left: 375px;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
+}
